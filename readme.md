@@ -4,7 +4,7 @@ Projeto criado do zero para treinar as habilidades de HTML, CSS, Javascript e re
 
 [Figma](https://www.figma.com/design/vQKpjfiPgpLIAXhcldi43Z/DevSorteio?node-id=0-1&t=EjWpf1Wb6xoAoIvo-0)
 
-[Projeto Online]()
+[Projeto Online](https://sorteador-numero-self.vercel.app/)
 
 <img src="./img/preview.png" alt="preview">
 
